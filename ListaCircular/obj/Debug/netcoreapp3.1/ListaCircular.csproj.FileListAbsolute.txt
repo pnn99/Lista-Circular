@@ -1,0 +1,13 @@
+/home/paulo/AEDs/ListaCircular/bin/Debug/netcoreapp3.1/ListaCircular
+/home/paulo/AEDs/ListaCircular/bin/Debug/netcoreapp3.1/ListaCircular.deps.json
+/home/paulo/AEDs/ListaCircular/bin/Debug/netcoreapp3.1/ListaCircular.runtimeconfig.json
+/home/paulo/AEDs/ListaCircular/bin/Debug/netcoreapp3.1/ListaCircular.runtimeconfig.dev.json
+/home/paulo/AEDs/ListaCircular/bin/Debug/netcoreapp3.1/ListaCircular.dll
+/home/paulo/AEDs/ListaCircular/bin/Debug/netcoreapp3.1/ListaCircular.pdb
+/home/paulo/AEDs/ListaCircular/obj/Debug/netcoreapp3.1/ListaCircular.csprojAssemblyReference.cache
+/home/paulo/AEDs/ListaCircular/obj/Debug/netcoreapp3.1/ListaCircular.AssemblyInfoInputs.cache
+/home/paulo/AEDs/ListaCircular/obj/Debug/netcoreapp3.1/ListaCircular.AssemblyInfo.cs
+/home/paulo/AEDs/ListaCircular/obj/Debug/netcoreapp3.1/ListaCircular.csproj.CoreCompileInputs.cache
+/home/paulo/AEDs/ListaCircular/obj/Debug/netcoreapp3.1/ListaCircular.dll
+/home/paulo/AEDs/ListaCircular/obj/Debug/netcoreapp3.1/ListaCircular.pdb
+/home/paulo/AEDs/ListaCircular/obj/Debug/netcoreapp3.1/ListaCircular.genruntimeconfig.cache
